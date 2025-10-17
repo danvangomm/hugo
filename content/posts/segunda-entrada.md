@@ -1,23 +1,26 @@
 ---
-title: "Aprendiendo Hugo"
-date: 2025-10-14T11:00:00+02:00
+title: "Explorando Hugo"
+date: 2025-10-17T11:30:00+02:00
 draft: false
 ---
 
-# Mi experiencia con Hugo
+# Primeros pasos con Hugo
 
-Después de crear mi primer sitio con Hugo, he descubierto que:
+Recientemente comencé a experimentar con Hugo y esto es lo que he aprendido hasta ahora:
 
-## Ventajas de Hugo
+## Aspectos positivos
 
-1. **Velocidad**: Es extremadamente rápido
-2. **Simplicidad**: Usar Markdown es muy fácil
-3. **Gratuito**: GitHub Pages es gratis
+- **Rendimiento**: Genera sitios estáticos casi al instante.
+- **Facilidad**: Crear contenido en Markdown es directo y cómodo.
+- **Costo**: Se puede combinar con GitHub Pages sin pagar nada.
 
-## Lo que más me gusta
+## Lo que más valoro
 
-- No necesito base de datos
-- Control total del código
-- Fácil de mantener
+- No requiere servidores ni bases de datos.
+- Tengo control completo sobre la estructura y el diseño.
+- La gestión de contenidos es muy ágil.
 
-¡Seguiré explorando sus capacidades!
+## Próximos retos
+
+Planeo probar nuevas funciones de Hugo y mejorar mis sitios existentes explorando temas y personalizaciones avanzadas.
+

@@ -1,26 +1,32 @@
 ---
-title: "Recursos útiles para desarrollo web"
-date: 2025-10-14T12:00:00+02:00
+title: "Aprendiendo desarrollo web: mis recursos favoritos"
+date: 2025-10-17T11:00:00+02:00
 draft: false
 ---
 
-# Recursos que uso para aprender
+# Herramientas y recursos para avanzar en web
 
-## Sitios recomendados
+## Plataformas de aprendizaje
 
-- [MDN Web Docs](https://developer.mozilla.org/) - Documentación web
-- [Stack Overflow](https://stackoverflow.com/) - Resolver dudas
-- [GitHub](https://github.com/) - Repositorios de código
+Para mejorar mis habilidades en desarrollo web, suelo consultar:
 
-## Herramientas
+- [MDN Web Docs](https://developer.mozilla.org/) — Referencia completa de HTML, CSS y JS.
+- [Stack Overflow](https://stackoverflow.com/) — Comunidad para resolver dudas de programación.
+- [GitHub](https://github.com/) — Para explorar proyectos y colaborar en código abierto.
 
-- **Hugo** - Generador de sitios estáticos
-- **Git** - Control de versiones
-- **VS Code** - Editor de código
+## Software y utilidades
 
-## Próximos pasos
+Estas son las herramientas que uso habitualmente:
 
-Quiero aprender más sobre:
-- CSS avanzado
-- JavaScript moderno
-- Diseño responsive
+- **Hugo** — Para crear sitios estáticos de forma rápida.
+- **Git** — Control de versiones y gestión de proyectos.
+- **Visual Studio Code** — Editor de código ligero y personalizable.
+
+## Objetivos próximos
+
+Mi plan de aprendizaje incluye profundizar en:
+
+- Técnicas avanzadas de CSS y animaciones.
+- JavaScript moderno y frameworks populares.
+- Diseño web adaptable (responsive) para todos los dispositivos.
+

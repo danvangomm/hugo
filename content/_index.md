@@ -1,18 +1,19 @@
 ---
-title: "Inicio"
+title: "Bienvenida"
 featured_image: ""
-description: "Mi sitio web con Hugo"
+description: "Sitio personal con Hugo"
 ---
 
-# Bienvenido a mi sitio web
+# ¡Hola y bienvenido!
 
-Este es mi sitio creado con Hugo y GitHub Pages.
+Este es mi blog personal creado con **Hugo** y publicado en **GitHub Pages**.
 
-## 📚 Mis artículos
+## 📝 Entradas recientes
 
-Explora mis últimas entradas en el blog.
+Aquí encontrarás mis últimos artículos y proyectos sobre tecnología y desarrollo web.
 
-## 🔗 Enlaces
+## 🔗 Recursos y contacto
 
-- [Acerca de mí](/about/)
-- [Mi GitHub](https://github.com/danvangomm)
+- [Mi perfil de GitHub](https://github.com/danvangomm) 
+- [Correo electrónico](mailto:danvangom@alu.edu.gva.es) 
+

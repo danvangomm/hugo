@@ -1,20 +1,21 @@
 ---
-title: "Segunda entrada"
-date: 2025-10-17T10:00:00
+title: "Mi sitio personal"
+date: 2025-10-17T12:30:00
 draft: true
 ---
 
-# Sobre mí
+# Bienvenidos
 
-Hola, soy Daniel y este es mi sitio web personal creado con Hugo.
+¡Hola! Soy Daniel y este blog está creado con Hugo para compartir mis proyectos y conocimientos.
 
-## ¿Qué encontrarás aquí?
+## Qué puedes encontrar
 
-- Artículos sobre tecnología
-- Proyectos personales
-- Tutoriales y guías
+- Entradas sobre desarrollo web y tecnología
+- Proyectos y experimentos personales
+- Tutoriales, guías y recursos útiles
 
-## Contacto
+## Cómo contactarme
 
-- GitHub: [@danvangomm](https://github.com/danvangomm)
-- Email: danvangom@alu.edu.gva.es
+- GitHub: [danvangomm](https://github.com/danvangomm)
+- Correo electrónico: danvangom@alu.edu.gva.es
+

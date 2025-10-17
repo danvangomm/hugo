@@ -1,25 +1,24 @@
 ---
-title: "Mi primera entrada"
-date: 2025-10-14T10:00:00+02:00
+title: "Comenzando con Hugo"
+date: 2025-10-17T12:00:00+02:00
 draft: false
 ---
 
-# ¡Hola Mundo!
+# Bienvenido a mi blog
 
-Esta es mi **primera entrada** en Hugo.
+Hoy publico mi **entrada inicial** usando Hugo, y quiero compartir mi experiencia.
 
-## ¿Qué es Hugo?
+## ¿Qué hace Hugo?
 
-Hugo es un generador de sitios estáticos:
+Hugo es un generador de sitios estáticos que permite:
 
-- Rápido
-- Fácil de usar
-- Basado en Markdown
+- Publicar rápido
+- Trabajar cómodamente con Markdown
+- Mantener control total sobre el contenido
 
-### Código de ejemplo
-```python
-def saludar():
-    print("Hola desde Hugo!")
-```
-
-[Visita Hugo](https://gohugo.io)
+### Ejemplo práctico
+```javascript
+function saludar() {
+    console.log("¡Hola desde Hugo!");
+}
+saludar();

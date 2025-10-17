@@ -1,28 +1,34 @@
 ---
-title: "Mi primer proyecto con Hugo"
-date: 2025-10-14T13:00:00+02:00
+title: "Mi experiencia creando un sitio con Hugo"
+date: 2025-10-17T10:30:00+02:00
 draft: false
 ---
 
-# Cómo creé este sitio
+# Descubriendo Hugo
 
-Este sitio web es mi primer proyecto usando Hugo y GitHub Pages.
+En este proyecto decidí crear un sitio web usando Hugo, y la experiencia fue muy enriquecedora.
 
-## Pasos que seguí
+## Configuración inicial
 
-1. Instalé Hugo en Ubuntu
-2. Creé el sitio básico
-3. Añadí el tema Ananke
-4. Creé contenido en Markdown
-5. Publiqué en GitHub Pages
+- Instalé Hugo en Ubuntu.
+- Configuré un proyecto nuevo desde cero.
+- Seleccioné el tema **Ananke** para darle un diseño moderno.
 
-## Problemas que encontré
+## Creación de contenido
 
-Al principio tuve algunos errores de conexión, pero después de configurar 
-correctamente el servidor local, todo funcionó perfectamente.
+Comencé a escribir artículos en formato Markdown, explorando las distintas posibilidades de Hugo:
 
-## Conclusión
+1. Crear secciones y páginas.
+2. Añadir títulos, listas y subtítulos.
+3. Integrar enlaces y otros recursos multimedia.
 
-**Hugo es genial** para crear sitios web rápidos y sin complicaciones.
+## Retos y soluciones
 
-Lo recomendaría a cualquiera que quiera empezar con desarrollo web.
+Durante el proceso encontré algunos problemas de configuración, pero gracias a la documentación oficial y pruebas locales, los resolví sin mayores complicaciones.
+
+## Reflexión final
+
+**Hugo facilita la creación de sitios estáticos** de manera rápida y organizada.  
+Es ideal para quienes quieren experimentar con desarrollo web sin depender de plataformas complejas.
+
+
