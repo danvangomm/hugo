@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mi Sitio con Hugo</title>
+    <link>https://danvangomm.github.io/hugo/posts/</link>
+    <description>Recent content in Posts on Mi Sitio con Hugo</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 14 Oct 2025 13:00:00 +0200</lastBuildDate>
+    <atom:link href="https://danvangomm.github.io/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi primer proyecto con Hugo</title>
+      <link>https://danvangomm.github.io/hugo/posts/mi-primer-proyecto/</link>
+      <pubDate>Tue, 14 Oct 2025 13:00:00 +0200</pubDate>
+      <guid>https://danvangomm.github.io/hugo/posts/mi-primer-proyecto/</guid>
+      <description>&lt;h1 id=&#34;cómo-creé-este-sitio&#34;&gt;Cómo creé este sitio&lt;/h1&gt;&#xA;&lt;p&gt;Este sitio web es mi primer proyecto usando Hugo y GitHub Pages.&lt;/p&gt;&#xA;&lt;h2 id=&#34;pasos-que-seguí&#34;&gt;Pasos que seguí&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Instalé Hugo en Ubuntu&lt;/li&gt;&#xA;&lt;li&gt;Creé el sitio básico&lt;/li&gt;&#xA;&lt;li&gt;Añadí el tema Ananke&lt;/li&gt;&#xA;&lt;li&gt;Creé contenido en Markdown&lt;/li&gt;&#xA;&lt;li&gt;Publiqué en GitHub Pages&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;problemas-que-encontré&#34;&gt;Problemas que encontré&lt;/h2&gt;&#xA;&lt;p&gt;Al principio tuve algunos errores de conexión, pero después de configurar&#xA;correctamente el servidor local, todo funcionó perfectamente.&lt;/p&gt;&#xA;&lt;h2 id=&#34;conclusión&#34;&gt;Conclusión&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hugo es genial&lt;/strong&gt; para crear sitios web rápidos y sin complicaciones.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recursos útiles para desarrollo web</title>
+      <link>https://danvangomm.github.io/hugo/posts/recursos-web/</link>
+      <pubDate>Tue, 14 Oct 2025 12:00:00 +0200</pubDate>
+      <guid>https://danvangomm.github.io/hugo/posts/recursos-web/</guid>
+      <description>&lt;h1 id=&#34;recursos-que-uso-para-aprender&#34;&gt;Recursos que uso para aprender&lt;/h1&gt;&#xA;&lt;h2 id=&#34;sitios-recomendados&#34;&gt;Sitios recomendados&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/&#34;&gt;MDN Web Docs&lt;/a&gt; - Documentación web&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/&#34;&gt;Stack Overflow&lt;/a&gt; - Resolver dudas&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; - Repositorios de código&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;herramientas&#34;&gt;Herramientas&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt; - Generador de sitios estáticos&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Git&lt;/strong&gt; - Control de versiones&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;VS Code&lt;/strong&gt; - Editor de código&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;próximos-pasos&#34;&gt;Próximos pasos&lt;/h2&gt;&#xA;&lt;p&gt;Quiero aprender más sobre:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CSS avanzado&lt;/li&gt;&#xA;&lt;li&gt;JavaScript moderno&lt;/li&gt;&#xA;&lt;li&gt;Diseño responsive&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Aprendiendo Hugo</title>
+      <link>https://danvangomm.github.io/hugo/posts/segunda-entrada/</link>
+      <pubDate>Tue, 14 Oct 2025 11:00:00 +0200</pubDate>
+      <guid>https://danvangomm.github.io/hugo/posts/segunda-entrada/</guid>
+      <description>&lt;h1 id=&#34;mi-experiencia-con-hugo&#34;&gt;Mi experiencia con Hugo&lt;/h1&gt;&#xA;&lt;p&gt;Después de crear mi primer sitio con Hugo, he descubierto que:&lt;/p&gt;&#xA;&lt;h2 id=&#34;ventajas-de-hugo&#34;&gt;Ventajas de Hugo&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Velocidad&lt;/strong&gt;: Es extremadamente rápido&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Simplicidad&lt;/strong&gt;: Usar Markdown es muy fácil&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gratuito&lt;/strong&gt;: GitHub Pages es gratis&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;lo-que-más-me-gusta&#34;&gt;Lo que más me gusta&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No necesito base de datos&lt;/li&gt;&#xA;&lt;li&gt;Control total del código&lt;/li&gt;&#xA;&lt;li&gt;Fácil de mantener&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;¡Seguiré explorando sus capacidades!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mi primera entrada</title>
+      <link>https://danvangomm.github.io/hugo/posts/bienvenida/</link>
+      <pubDate>Tue, 14 Oct 2025 10:00:00 +0200</pubDate>
+      <guid>https://danvangomm.github.io/hugo/posts/bienvenida/</guid>
+      <description>&lt;h1 id=&#34;hola-mundo&#34;&gt;¡Hola Mundo!&lt;/h1&gt;&#xA;&lt;p&gt;Esta es mi &lt;strong&gt;primera entrada&lt;/strong&gt; en Hugo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qué-es-hugo&#34;&gt;¿Qué es Hugo?&lt;/h2&gt;&#xA;&lt;p&gt;Hugo es un generador de sitios estáticos:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rápido&lt;/li&gt;&#xA;&lt;li&gt;Fácil de usar&lt;/li&gt;&#xA;&lt;li&gt;Basado en Markdown&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;código-de-ejemplo&#34;&gt;Código de ejemplo&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;saludar&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hola desde Hugo!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://gohugo.io&#34;&gt;Visita Hugo&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

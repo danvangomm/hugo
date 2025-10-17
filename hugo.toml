@@ -1,0 +1,9 @@
+baseURL = "https://danvangomm.github.io/hugo/"
+languageCode = "es"
+title = "Mi Sitio con Hugo"
+theme = "ananke"
+publishDir = "docs"
+
+[params]
+  description = "Mi primer sitio web estático"
+  featured_image = ""

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://danvangomm.github.io/hugo/</loc>
+    <lastmod>2025-10-17T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danvangomm.github.io/hugo/posts/mi-primer-proyecto/</loc>
+    <lastmod>2025-10-14T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://danvangomm.github.io/hugo/posts/</loc>
+    <lastmod>2025-10-14T13:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://danvangomm.github.io/hugo/posts/recursos-web/</loc>
+    <lastmod>2025-10-14T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://danvangomm.github.io/hugo/posts/segunda-entrada/</loc>
+    <lastmod>2025-10-14T11:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://danvangomm.github.io/hugo/posts/bienvenida/</loc>
+    <lastmod>2025-10-14T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://danvangomm.github.io/hugo/categories/</loc>
+  </url><url>
+    <loc>https://danvangomm.github.io/hugo/tags/</loc>
+  </url>
+</urlset>
