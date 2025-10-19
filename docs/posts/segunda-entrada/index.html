@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Descubriendo Markdown | Mi Sitio</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Descubriendo Markdown | Mi Sitio con Hugo</title>
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -13,20 +13,15 @@
         background-color: #f8f9fa;
         font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
       }
-      header {
+      .navbar {
         background-color: #0d6efd;
-        color: white;
-        padding: 1rem 0;
       }
-      header h1 {
-        margin: 0;
+      .navbar-brand,
+      .nav-link {
+        color: white !important;
       }
-      main {
-        margin-top: 3rem;
-      }
-      .article-title {
-        font-weight: 700;
-        color: #212529;
+      .nav-link:hover {
+        text-decoration: underline;
       }
       footer {
         background-color: #212529;
@@ -50,41 +45,59 @@
   </head>
 
   <body>
-    <!-- Header -->
-    <header class="text-center shadow-sm">
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark shadow-sm">
       <div class="container">
-        <h1 class="display-5 fw-bold">Mi Sitio con Hugo</h1>
-        <p class="lead mb-0">Aprendiendo sobre herramientas para crear contenido</p>
-      </div>
-    </header>
+        <a class="navbar-brand fw-bold" href="/">Mi Sitio con Hugo</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item"><a class="nav-link" href="https://danvangomm.github.io/hugo/">Inicio</a></li>
 
-    <!-- Main content -->
-    <main class="container">
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Contenido -->
+    <main class="container py-5">
       <article class="mx-auto" style="max-width: 800px;">
-        <h2 class="article-title mt-4">Descubriendo Markdown</h2>
-        <p class="text-muted">Publicado el 19 de octubre de 2025</p>
+        <h1 class="fw-bold text-primary">Descubriendo Markdown</h1>
+        <p class="text-muted">Publicado el 18 de octubre de 2025</p>
 
         <p>
-          Después de experimentar con <strong>Markdown</strong>, he aprendido que es una de las
-          herramientas más simples y útiles para escribir contenido estructurado sin complicaciones.
+          Markdown es un lenguaje de marcado ligero que permite dar formato a textos de forma sencilla y rápida.
+          Es ampliamente usado en blogs, documentación y GitHub.
         </p>
 
         <h3 class="section-title">Ventajas de Markdown</h3>
-        <ol>
-          <li><strong>Simplicidad:</strong> Permite escribir sin distracciones ni etiquetas HTML.</li>
-          <li><strong>Compatibilidad:</strong> Funciona perfectamente en blogs, GitHub y documentación.</li>
-          <li><strong>Legibilidad:</strong> Incluso sin procesar, el texto se entiende fácilmente.</li>
-        </ol>
-
-        <h3 class="section-title">Lo que más valoro</h3>
         <ul>
-          <li>Perfecto para escribir documentación técnica.</li>
-          <li>Ideal para publicar en sitios generados con Hugo.</li>
-          <li>Fácil de mantener y compartir en repositorios.</li>
+          <li>Fácil de leer y escribir.</li>
+          <li>Compatible con múltiples plataformas.</li>
+          <li>Ideal para documentación técnica.</li>
         </ul>
 
+        <h3 class="section-title">Ejemplo básico</h3>
+        <pre><code># Título principal
+## Subtítulo
+**Texto en negrita**
+*Texto en cursiva*
+- Lista 1
+- Lista 2
+        </code></pre>
+
+        <h3 class="section-title">Conclusión</h3>
         <p>
-          ¡Seguiré explorando sus capacidades para mejorar mis proyectos web y mis notas personales!
+          Si estás empezando en el mundo del desarrollo o la escritura técnica,
+          aprender Markdown es un paso fundamental. Su simplicidad lo hace
+          perfecto para estructurar ideas rápidamente.
         </p>
       </article>
     </main>
@@ -92,7 +105,9 @@
     <!-- Footer -->
     <footer>
       <div class="container">
-        <p class="mb-0">&copy; 2025 Mi Sitio con Hugo — Todos los derechos reservados.</p>
+        <p class="mb-0">
+          &copy; 2025 Mi Sitio con Hugo — Todos los derechos reservados.
+        </p>
       </div>
     </footer>
 
